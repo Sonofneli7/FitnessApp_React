@@ -1,2 +1,2 @@
-# fitness-project
-fitness application using  React Native
+# Fitness Application
+React Native
